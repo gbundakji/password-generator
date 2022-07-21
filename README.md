@@ -8,6 +8,8 @@ This is a password generator simply created to generate randomized passwords bet
 
 ## Deployed Webpage 💻
 
+https://gbundakji.github.io/password-generator/
+
 ## Visuals 📷
 
 ## Credits 🌎

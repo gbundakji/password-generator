@@ -109,7 +109,7 @@ function generatePassword() {
         password.push(confirmOp);
     }
   
-    return password;
+    return password.join("");
 }
 
 // Generating password in the 'your secure password' box
@@ -122,5 +122,3 @@ function writePassword() {
   passwordText.value = password;
 
 }
-
-generatePassword();
