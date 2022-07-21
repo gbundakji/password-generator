@@ -8,6 +8,8 @@ This is a password generator simply created to generate randomized passwords bet
 
 ## Deployed Webpage 💻
 
+./users/gassa/code-refactor/assets
+
 ## Visuals 📷
 
 ## Credits 🌎
