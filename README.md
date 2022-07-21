@@ -12,6 +12,34 @@ https://gbundakji.github.io/password-generator/
 
 ## Visuals 📷
 
+Password Generator Webpage:
+
+<img src = "./Assets/Images/passwordgen1.png" width = "500px">
+
+Password Prompt:
+
+<img src = "./Assets/Images/passwordgen2.png" width = "500px">
+
+Numeric Characters Alert:
+
+<img src = "./Assets/Images/passwordgen3.png" width = "500px">
+
+Special Characters Alert:
+
+<img src = "./Assets/Images/passwordgen4.png" width = "500px">
+
+Uppercase Character Alert:
+
+<img src = "./Assets/Images/passwordgen5.png" width = "500px">
+
+Lowercase Character Alert:
+
+<img src = "./Assets/Images/passwordgen6.png" width = "500px">
+
+Generated Password With 12 Characters:
+
+<img src = "./Assets/Images/passwordgen7.png" width = "500px">
+
 ## Credits 🌎
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
